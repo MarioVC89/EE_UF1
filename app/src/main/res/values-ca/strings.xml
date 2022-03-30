@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EE_UF1</string>
+    <string name="label1_start_text">Notites</string>
+    <string name="label1_crear_text">Escriu una nota</string>
+    <string name="boton1_crear_text">TORNAR</string>
+    <string name="boton2_crear_text">CREAR</string>
+    <string name="label1_ver_text">Informació de la nota</string>
+    <string name="boton1_ver_text">TORNAR</string>
+    <string name="boton2_ver_text">BORRAR</string>
+    <string name="boton1_borrar_text">ESBORRAR TOTES LES NOTES</string>
+    <string name="boton2_borrar_text">TORNAR</string>
+    <string name="toast_listado_text">He polsat un item</string>
+    <string name="toast1_crear_text">Nota obligatòria</string>
+    <string name="toast2_crear_text">Nota creada correctament</string>
+    <string name="toast1_borrar_text">S'han esborrat totes les notes</string>
+    <string name="toast1_ver_text">Nota esborrada correctament</string>
+
+
+
+</resources>

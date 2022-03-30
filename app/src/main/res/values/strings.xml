@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EE_UF1</string>
+    <string name="label1_start_text">Notitas</string>
+    <string name="label1_crear_text">Escribe una nota</string>
+    <string name="boton1_crear_text">VOLVER</string>
+    <string name="boton2_crear_text">CREAR</string>
+    <string name="label1_ver_text">Información de la nota</string>
+    <string name="boton1_ver_text">VOLVER</string>
+    <string name="boton2_ver_text">BORRAR</string>
+    <string name="boton1_borrar_text">BORRAR TODAS LAS NOTAS</string>
+    <string name="boton2_borrar_text">VOLVER</string>
+    <string name="toast_listado_text">Pulso en un Item</string>
+    <string name="toast1_crear_text">Nota obligatoria</string>
+    <string name="toast2_crear_text">Nota creada correctamente</string>
+    <string name="toast1_borrar_text">Se han borrado todas las notas</string>
+    <string name="toast1_ver_text">Nota borrada correctamente</string>
+
+
+</resources>

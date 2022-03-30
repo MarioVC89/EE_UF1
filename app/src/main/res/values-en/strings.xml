@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EE_UF1</string>
+    <string name="label1_start_text">Notes</string>
+    <string name="label1_crear_text">Write a note</string>
+    <string name="boton1_crear_text">BACK</string>
+    <string name="boton2_crear_text">CREATE</string>
+    <string name="label1_ver_text">Note information</string>
+    <string name="boton1_ver_text">BACK</string>
+    <string name="boton2_ver_text">DELETE</string>
+    <string name="boton1_borrar_text">DELETE ALL NOTES</string>
+    <string name="boton2_borrar_text">BACK</string>
+    <string name="toast_listado_text">Push on an item</string>
+    <string name="toast1_crear_text">Mandatory note</string>
+    <string name="toast2_crear_text">Note created successfully</string>
+    <string name="toast1_borrar_text">All notes have been deleted</string>
+    <string name="toast1_ver_text">Note deleted successfully</string>
+
+
+
+</resources>
